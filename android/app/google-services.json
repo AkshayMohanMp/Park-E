@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "347140237355",
+    "project_id": "shahma-mini-project",
+    "storage_bucket": "shahma-mini-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347140237355:android:d1e58fc292c77ad366226e",
+        "android_client_info": {
+          "package_name": "com.parkE.parke"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347140237355-h4qq6bnd60t7gmkv98sgdepn2fq758s4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjJ7zJuKaUN9XdiLF1VlnEHtJYTRJcmS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347140237355-h4qq6bnd60t7gmkv98sgdepn2fq758s4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
