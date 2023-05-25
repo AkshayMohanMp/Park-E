@@ -1,10 +1,10 @@
 # parke
 
-A new Flutter project.
+this project is based on e booking of parking slots 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is my third Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
